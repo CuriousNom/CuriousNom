@@ -2,7 +2,7 @@
 - 👀 I’m interested in custom roms
 - 🌱 I’m currently learning to build rom from source and also port roms .
 - 📫 How to reach me
-- Gmail : @aryanbiswas7585@gmail.com
+- Gmail : aryanbiswas7585@gmail.com
 - Tg : @The_Riderrr
 
 <!---
