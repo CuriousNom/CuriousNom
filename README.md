@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Biswas</h1>
 <h3 align="center">Diving Deep into the Code: A Passionate Odyssey of Building Custom ROMs and Rooting Devices, Nurturing the Digital Frontier with Diligence and Expertise, Focusing on the Maintenance of violet and gta4lwifi</h3>
 
-- 🔭 I’m currently working on [violet device](https://github.com/CuriousNom/chaste_device_xiaomi_violet.git)
+- 🔭 Official Maintainer of Project Zephyrus, Project Matrixx and Project Blaze for violet and gta4lwifi
 
 - 🌱 **I'm currently in the process of learning and developing custom ROMs**
 
