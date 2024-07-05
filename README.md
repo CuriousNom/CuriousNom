@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Biswas</h1>
-<h3 align="center">Exploring custom ROMs, rooting, and maintaining devices like violet and gta4lwifi is a passionate journey in nurturing the digital frontier with expertise and diligence.</h3>
+<h3 align="center">Exploring custom ROMs, rooting, and maintaining devices like violet and gta4lwifi</h3>
 
-- 🔭 Official Maintainer of Project Zephyrus, Project Matrixx and Project Blaze for violet and gta4lwifi
+- 🔭 Official Maintainer of Project Matrixx and Project Blaze for violet and gta4lwifi
 
 - 🌱 **I'm currently in the process of learning and developing custom ROMs**
 
