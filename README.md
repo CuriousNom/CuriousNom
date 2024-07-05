@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousnom&label=Profile%20views&color=0e75b6&style=flat" alt="curiousnom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curiousnom" alt="curiousnom" /></a> </p>
-
 - 💬 Ask me about **rooting,custom roms,linux,ios,etc ;)**
 
 - 📫 How to reach me **aryanbiswas7585@gmail.com**
