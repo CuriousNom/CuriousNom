@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Biswas</h1>
 <h3 align="center">A passionate Custom Rom Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousnom&label=Profile%20views&color=0e75b6&style=flat" alt="curiousnom" /> </p>
+- 🎬 I’m currently maintaining **Project Blaze for violet & Project Matrixx for gta4lwifi**
 
 - 💬 Ask me about **rooting,custom roms,linux,ios,etc ;)**
 
