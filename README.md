@@ -3,7 +3,7 @@
 
 - 🎬 I’m currently maintaining **Project Blaze for violet & Project Matrixx for gta4lwifi**
 
-- 💬 Ask me about **rooting,custom roms,linux,ios,etc ;)**
+- 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
 
 - 📫 How to reach me **aryanbiswas7585@gmail.com**
 
