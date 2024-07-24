@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Biswas</h1>
 <h3 align="center">A passionate Custom Rom Enthusiast from India</h3>
 
-- 🎬 I’m currently maintaining **Project Blaze for violet & Project Matrixx for gta4lwifi**
+- 🎬 I’m currently maintaining **Project Blaze for violet, Project Matrixx for gta4lwifi & Project Infinity X for both**
 
 - 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
 
