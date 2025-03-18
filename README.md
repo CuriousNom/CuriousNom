@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Biswas</h1>
 <h3 align="center">A passionate Custom Rom Enthusiast from India</h3>
 
-- 🎬 I’m currently maintaining **Project Matrixx for Xiaomi Pad 6**
+- 🎬 I’m currently a part of **Project Matrixx Core team**
+
+- 🧑‍💻 Former **Redmi Note 7 Pro** & **Samsung Galaxy Tab A7** maintainer
+  
+- 📱 Currently maintaing **Xiaomi Pad 6**
 
 - 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
 
